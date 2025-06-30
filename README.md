@@ -8,7 +8,9 @@ A comprehensive security investigation has uncovered sophisticated surveillance 
 
 **IMMEDIATE ACTION:** If you own an EPOMAKER x AULA F75 Max keyboard, **disconnect it immediately** and follow the emergency response steps below.
 
-link to {Link: product  https://epomaker.com/products/epomaker-aula-f75}
+Link:
+[EPOMAKER x AULA F75 Product Page](https://epomaker.com/products/epomaker-aula-f75)
+
 
 ## How We Discovered This Threat
 
