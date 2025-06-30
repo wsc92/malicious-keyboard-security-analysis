@@ -1,4 +1,3 @@
-
 **Date:** June 30, 2025  
 **Classification:** Critical Consumer Security Advisory  
 **Threat Level:** IMMEDIATE ACTION REQUIRED
@@ -7,7 +6,9 @@
 
 A comprehensive security investigation has uncovered sophisticated surveillance hardware masquerading as legitimate gaming keyboards. **One out of three keyboards tested was confirmed as malicious surveillance equipment** designed to steal personal information, passwords, and monitor user activity in real-time.
 
-**IMMEDIATE ACTION:** If you own an AULA F75 Max keyboard, **disconnect it immediately** and follow the emergency response steps below.
+**IMMEDIATE ACTION:** If you own an EPOMAKER x AULA F75 Max keyboard, **disconnect it immediately** and follow the emergency response steps below.
+
+link to {Link: product  https://epomaker.com/products/epomaker-aula-f75}
 
 ## How We Discovered This Threat
 
