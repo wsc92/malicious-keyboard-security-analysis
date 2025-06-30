@@ -11,6 +11,50 @@ A comprehensive security investigation has uncovered sophisticated surveillance 
 Link:
 [EPOMAKER x AULA F75 Product Page](https://epomaker.com/products/epomaker-aula-f75)
 
+### Legitimate AULA F75 Specifications
+
+According to the official EPOMAKER website, the legitimate AULA F75 should have:
+
+- **Product Name:** EPOMAKER x AULA F75
+- **Type:** 75% Gasket Wireless Mechanical Keyboard
+- **Connectivity:** Bluetooth, 2.4GHz wireless, and wired USB
+- **Battery:** 4000mAh
+- **Features:** 
+  - Hot-swap functionality
+  - RGB illumination (16.8 million colors)
+  - Multimedia control knob
+  - Cherry profile double-shot PBT keycaps
+
+### ⚠️ Critical Security Note
+
+**The device we analyzed does NOT match these legitimate specifications:**
+
+| Specification | Legitimate F75 | Malicious Device Tested |
+|---------------|----------------|------------------------|
+| **USB Identification** | Should show as AULA F75 | Shows as "Vivitar Vivicam3350B" |
+| **Manufacturer** | EPOMAKER/AULA | Claims "SONiX" but uses Microdia USB ID |
+| **USB Interfaces** | Standard keyboard interfaces | 4 suspicious HID interfaces |
+| **Communication** | Input-only | Bidirectional surveillance capability |
+
+### Consumer Warning
+
+If you purchased an "AULA F75" that:
+- Shows up as a camera device in your system
+- Has mismatched manufacturer information
+- Exhibits the suspicious behaviors documented in our analysis
+
+**You likely have a counterfeit surveillance device, not a legitimate AULA F75.**
+
+### Verification Steps
+
+Before purchasing or if you already own an AULA F75:
+
+1. **Check the source:** Buy only from official retailers like EPOMAKER
+2. **Verify USB identification:** Should show as legitimate AULA device, not camera
+3. **Monitor system behavior:** Should not exhibit continuous data transmission
+4. **Check packaging:** Compare with official EPOMAKER packaging and documentation
+
+**Note:** This security analysis specifically targets counterfeit devices masquerading as AULA F75 keyboards. Legitimate AULA F75 keyboards from authorized retailers may be safe, but verification is essential.
 
 ## How We Discovered This Threat
 
